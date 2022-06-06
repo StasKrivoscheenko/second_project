@@ -182,6 +182,7 @@ header nav ul li:last-of-type a:hover{
 }
 .box{
     max-width: 1200px;
+    margin: auto;
     margin-top: 82px;
     display: flex;
     align-items: center;
