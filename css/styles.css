@@ -41,7 +41,7 @@ header nav a{
     font-size: 15px;
     line-height: 20px;
     color: #FFFFFF;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
 }
 header nav ul li:first-of-type {
     margin-right: 26px;
@@ -78,7 +78,7 @@ header nav ul li:last-of-type a:hover{
     text-align: center;
 }
 .main_banner h3{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -86,7 +86,7 @@ header nav ul li:last-of-type a:hover{
     color: #C0C0C0;
 }
 .main_banner h1{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 54px;
@@ -94,7 +94,7 @@ header nav ul li:last-of-type a:hover{
     color: #FFFFFF;
 }
 .main_banner p{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -110,7 +110,7 @@ header nav ul li:last-of-type a:hover{
 }
 .components li{
     padding-left: 16px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -165,7 +165,7 @@ header nav ul li:last-of-type a:hover{
     text-align: center;
 }
 .fourth_banner h2{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -173,7 +173,7 @@ header nav ul li:last-of-type a:hover{
     color: #FFFFFF;
 }
 .fourth_banner h3{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -207,7 +207,7 @@ header nav ul li:last-of-type a:hover{
     text-align: center;
 }
 .sixth_banner h3{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -217,7 +217,7 @@ header nav ul li:last-of-type a:hover{
     margin-bottom: 22px;
 }
 .sixth_banner h2{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
