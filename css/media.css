@@ -1,0 +1,106 @@
+@media only screen and (max-width: 320px) {
+    .main_banner h1{
+        font-size: 30px;
+    }
+    .main_banner p{
+        font-size: 8px;
+    }
+    .components li{
+        font-size: 5px;
+    }
+    .fourth_banner h2{
+        font-size: 28px;
+    }
+    .fourth_banner h3{
+        font-size: 16px;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .fourth_banner div a{
+        margin-top: 80px;
+    }
+    .sixth_banner h3{
+        font-size: 16px;
+    }
+    .sixth_banner h2{
+        font-size: 28px;
+    }
+}
+@media only screen and (max-width: 420px){
+    .main_banner h1{
+        font-size: 28px;
+    }
+    .main_banner p{
+        font-size: 12px;
+    }
+    .components li{
+        font-size: 9px;
+    }
+    .fourth_banner h2{
+        font-size: 38px;
+    }
+    .fourth_banner h3{
+        font-size: 20px;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .fourth_banner div a{
+        margin-top: 80px;
+    }
+}
+@media only screen and (max-width: 609px) {
+    header nav a {
+        font-size: 6px;
+    }
+
+    header nav ul li:last-of-type a {
+        font-size: 6px;
+    }
+    header nav ul li:first-of-type a {
+        font-size: 6px;
+    }
+    .main_banner h1{
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width: 663px) {
+    header nav a {
+        font-size: 8px;
+    }
+
+    header nav ul li:last-of-type a {
+        font-size: 8px;
+    }
+    header nav ul li:first-of-type a {
+        font-size: 8px;
+    }
+}
+@media only screen and (max-width: 702px) {
+    header nav a {
+        font-size: 10px;
+    }
+    header nav ul li:last-of-type a{
+        padding: 8px 15px;
+        font-size: 10px;
+    }
+    header nav ul li:first-of-type a {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 824px) {
+    header nav a{
+        font-size: 10px;
+    }
+    header nav ul li:last-of-type a{
+        font-size: 11px;
+    }
+    header nav ul li:last-of-type a{
+        padding: 8px 15px;
+        font-size: 10px;
+    }
+    header nav ul li:first-of-type a {
+        font-size: 10px;
+    }
+}
