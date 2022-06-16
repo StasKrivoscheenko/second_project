@@ -49,6 +49,12 @@
     .fourth_banner div a{
         margin-top: 80px;
     }
+    .sixth_banner h3{
+        font-size: 16px;
+    }
+    .sixth_banner h2{
+        font-size: 28px;
+    }
 }
 @media only screen and (max-width: 609px) {
     header nav a {
@@ -66,15 +72,8 @@
     }
 }
 @media only screen and (max-width: 663px) {
-    header nav a {
-        font-size: 8px;
-    }
-
-    header nav ul li:last-of-type a {
-        font-size: 8px;
-    }
-    header nav ul li:first-of-type a {
-        font-size: 8px;
+    header nav {
+        display: none;
     }
 }
 @media only screen and (max-width: 702px) {
