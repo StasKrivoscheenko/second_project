@@ -18,7 +18,9 @@ header{
     background-color: black;
     padding: 24px 0;
 }
+.logo{
 
+}
 .container{
     margin: auto;
     max-width: 1440px;
