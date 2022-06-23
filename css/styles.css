@@ -183,6 +183,7 @@ header nav ul li:last-of-type a:hover{
     font-size: 24px;
     line-height: 30px;
     color: #C0C0C0;
+    margin-bottom: 100px;
 }
 
 .box{
@@ -253,6 +254,24 @@ header nav ul li:last-of-type a:hover{
     border-radius: 16px;
     background-color: black;
 }
-.clients{
-
+.fourth_banner a{
+    max-width: 128px;
+    display: inline-block;
 }
+.fourth_banner a img{
+    width: 100%;
+    display: block;
+}
+.owl-stage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.owl-nav .disabled .owl-prev:before{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: "\f054";
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
